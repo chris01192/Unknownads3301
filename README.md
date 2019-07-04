@@ -1,5 +1,3 @@
-# ads-rules3010
+# footbail3010
 
-default default_01.conf
-
-ads+youtube ads01.conf
+remove
